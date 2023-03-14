@@ -16,4 +16,4 @@ To draw the spiral, we first calculate the distance d from the mouse position to
 
 $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
 
-We then divide this distance by 15 (an arbitrary value that seemed to look the best out of all the numbers tried) to determine the stroke weight of the spiral.
+We then divide this distance by 30 (an arbitrary value that seemed to look the best out of all the numbers tried) to determine the stroke weight of the spiral.
