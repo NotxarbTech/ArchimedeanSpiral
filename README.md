@@ -1,7 +1,7 @@
-Archimedean Spiral
+# Archimedean Spiral
 This is a simple demonstration of using the p5.js library to draw an Archimedean Spiral based on the user's mouse position.
 
-The Math
+### The Math
 The Archimedean Spiral is defined by the formula:
 
 $r = a + b \theta$
